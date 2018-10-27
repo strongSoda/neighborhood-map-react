@@ -1,6 +1,5 @@
 # Neighborhood Map Project React
 
-> By Dylan Blur
 
 ![Part of the Udacity Front-End Web Development Nanodegree](https://img.shields.io/badge/Udacity-React-02b3e4.svg)
 
@@ -14,7 +13,7 @@ This application follow this [Udacity Project Rubric](https://review.udacity.com
 
 ## Run Online Project
 
-You can get the hosted project here -> https://blurdylan.github.io/neighborhood-map-react
+You can get the hosted project here -> https://strongsoda.github.io/neighborhood-map-react/
 
 ## Features
 
